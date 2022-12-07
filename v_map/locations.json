@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "name": "Bar INFU",
+        "country": "barINFU_pin",
+        "description": "沈靜的巷弄內，總有一處遠離喧囂、另人驚豔的地方，這就是台南的真實樣貌。隱藏在老宅中的bar INFU，沒有高調醒目的招牌，僅憑藉著一道古樸的紅鐵門來辨別店家的所在之處。步入Bar INFU，昏暗且富有情調的燈光、水晶吊燈、舊木橫樑以及個人私心最愛的紅絲絨掛簾，讓人在剎那間跌入時光隧道，仿佛夢回上海1930。",
+        "more": "Bar INFU 源於老闆Benjamin擅長的infuse(浸漬手法)而得名。選用單一食材浸泡適合的基酒，經過不斷的嘗試調出一杯杯個性獨特，卻屢屢讓人驚艷的忘憂水！",
+        "latitude": 22.994261559659584,
+        "longitude": 120.20493341277061,
+        "appleMap": "http://maps.apple.com/?address=台南市中西區忠義路二段84巷63號",
+        "heroPicture": "barINFU",
+        "logo": "barINFU_logo",
+        "booking":
+            "https://inline.app/booking/-MY4Yg3O5PkvLPOpbINZ:inline-live-2/-MY4YgDYeuh-BKErhJ2R?language=zh-tw",
+        "pictures": ["photo1", "photo2", "photo3", "photo4", "photo5", "photo6", "photo7", "photo8"],
+        "advisory": "We accept no liability for any visitors eaten alive by midges.",
+        "phone": "062235639",
+        "address": "台南市中西區忠義路二段84巷63號",
+        "time": "20:00~01:30 週三公休"
+    },
+    {
+        "id": 2,
+        "name": "Lola",
+        "country": "lola_pin",
+        "description": "夜晚時分的信義街是清幽卻生機蓬勃，Lola冷飲店座落於信義街的清朝老宅內，每每推開大門，激昂的搖滾樂不留情的竄入耳中，店外的寧靜往如昨日，仿佛今天的你，才正要開始。",
+        "more": "Lola取名源於老闆熱愛的英國樂團The Kinks的一首歌曲，與其命名相符的店內陳設，滿櫃的黑膠唱片，想必是同道中人最愛的一處風景。Lola店內中西合璧的裝潢風格，同樣反應於店內時常播映的藝術電影，隨機播映的驚喜，總讓回訪多次Lola的我，帶著不同的回憶心滿意足地離去。",
+        "latitude": 23.00085241616356,
+        "longitude": 120.19472724002965,
+        "appleMap": "http://maps.apple.com/?address=台南市中西區信義街110號",
+        "heroPicture": "lola",
+        "logo": "lola_logo",
+        "booking":
+            "",
+        "pictures": ["photo1", "photo2", "photo3", "photo4", "photo5", "photo6", "photo7", "photo8"],
+        "advisory": "We accept no liability for any visitors eaten alive by bears.",
+        "phone": "062228379",
+        "address": "台南市中西區信義街110號",
+        "time": "18:00~01:00 週五六 18:00~02:00 週一公休"
+    },
+    {
+        "id": 3,
+        "name": "Bar TCRC",
+        "country": "barTCRC_pin",
+        "description": "多次入選Asia’s 50 best bar 的TCRC絕對是造訪台南必訪景點！即使是週一平日晚上依然客滿，依然高朋滿座，只能說提早一個月訂位的高人氣絕無半點吹噓。小編第一次造訪TCRC後，就深深愛上了店內的復古裝潢與調酒！店內陳設分為前bar與後bar，大部分的座位分佈於bar檯，能夠一邊享受調酒，一邊看著bar tender炫技。一邊聽著員工耳語之間的幹話，讓微醺的夜晚時分，格外使人放鬆自在。後bar天花板上的老舊橫木更是別具特色，許多張鈔票被貼在橫木上，不知道這些鈔票是不是有著特別的含意，下次有幸造訪的朋友們，不妨問問bar tender 其中的故事吧！",
+        "more": "調酒的部分更是令人驚艷，小編私心喜歡水果風味且酒感不重的調酒，百香果作為第一杯開場最適合不過！濃郁的果香嚐得出bar tender對於食材的用心。誠摯推薦大家造訪TCRC，點上一杯醉上心頭的調酒，享受Asia’s top 50 的深厚底蘊！",
+        "latitude": 22.997137817585774,
+        "longitude": 120.20082952626362,
+        "appleMap": "http://maps.apple.com/?address=台南市中西區新美街117號",
+        "heroPicture": "barTCRC",
+        "logo": "barTCRC_logo",
+        "booking":
+            "https://inline.app/booking/-MBhmifjhvmPrQTt8LoP:inline-live-1/-MBhmijlj6lQnZhdIksN?language=zh-tw",
+        "pictures": ["photo3", "photo4", "photo5", "photo6", "photo7"],
+        "advisory": "",
+        "phone": "062228716",
+        "address": "台南市中西區新美街117號",
+        "time": "20:00~02:00 週日公休"
+        
+    },
+    {
+        "id": 4,
+        "name": "Bar Home",
+        "country": "barHOME_pin",
+        "description": "喜愛TCRC的嗜酒者，更不能錯過TCRC主理人開創的新店 Bar Home! 以家為出發點的裝潢理念與經營策略，做出別具Bar TCRC的Bar Home，晚上七點至凌晨一點的營業時間，就是希望品酒依然可以是一家人的團聚娛樂，爸爸媽媽帶著小孩，點上幾杯調酒、果汁、餐點，有小孩的週末一樣很chill。",
+        "more": "整間店座落於平常小巷的一處兩層樓洋房中，不經意路過還以為是一幢平常百姓的住家，但你永遠可以相信臺南的魅力，就是將尋常的每個角落，賦予嶄新的生命力與活力，一幢古宅能被如此保存與重生，想必是一件幸福的事情吧！重新出發，從家開始，我想這就是主理人最想給予每位造訪Bar Home的客人，最深切的體悟了。",
+        "latitude": 22.993658601143824,
+        "longitude": 120.20582785509932,
+        "appleMap": "http://maps.apple.com/?address=台南市中西區中山路23巷1號",
+        "heroPicture": "barHOME",
+        "logo": "barHOME_logo",
+        "booking":
+            "https://inline.app/booking/-Lth3ZZkOTMw4uVQJr4T:inline-live-1/-Lth3Zd27Kqo15f21gYq?language=zh-tw",
+        "pictures": ["photo4", "photo5", "photo6", "photo7", "photo8"],
+        "advisory": "",
+        "phone": "062232869",
+        "address": "台南市中西區中山路23巷1號",
+        "time": "19:00~01:00 週五18:00~01:00 週日一公休"
+    }
+    
+]
